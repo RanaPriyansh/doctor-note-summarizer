@@ -5,7 +5,7 @@
     <key>CFBundleDisplayName</key>
     <string>AI Doctor Note Summarizer</string>
     <key>CFBundleIdentifier</key>
-    <string>com.thielon.doctornotesummarizer</string>
+    <string>com.appfactory.doctornotesummarizer</string>
     <key>CFBundleName</key>
     <string>DoctorNoteSummarizer</string>
     <key>CFBundlePackageType</key>
